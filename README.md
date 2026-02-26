@@ -73,7 +73,7 @@ showError() / hideError() → Error handling
 
 Download or clone this repository:
 
-git clone https://github.com/your-username/age-calculator.git
+git clone (https://github.com/kaur0802003-tech/CodeAlpha_Age--Calculator.git)
 
 Open index.html in your browser.
 
